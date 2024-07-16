@@ -1,6 +1,4 @@
-## Venom <a id="venom">
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+![header](https://capsule-render.vercel.app/api?type=slice)
 <center><img src=./logo.jpg width="auto" height="200px" /></center>
 늘 열정적인 삶을 살아가고 있는 전나영입니다.<br/><br/>
 http://www.jobability.co.kr 도메인을 연결했습니다.<br/><br/>
