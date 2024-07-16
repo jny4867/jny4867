@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&text=Hi,%20I'm%20Nayoung!&height=150&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)<br><br>
+<center><img src=./logo.jpg width="auto" height="200px" /></center>
 늘 열정적인 삶을 살아가고 있는 전나영입니다.<br/><br/>
 언제든 편하게 간단한 웹을 제작할 수 있습니다.<br/><br/>
 2차 도메인 요청하셔서 개인 홍보 웹을 만들어 보세요. 기본적으로 템플릿 여러가지를 제공해 드리겠습니다. <br/><br/>
