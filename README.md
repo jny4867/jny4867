@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom)
+![header](https://capsule-render.vercel.app/api?type=venom&text=I'm%Nayoung!)
 <center><img src=./logo.jpg width="auto" height="200px" /></center>
 늘 열정적인 삶을 살아가고 있는 전나영입니다.<br/><br/>
 http://www.jobability.co.kr 도메인을 연결했습니다.<br/><br/>
