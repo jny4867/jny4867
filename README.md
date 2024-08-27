@@ -12,7 +12,6 @@
  <br>
   <br>
    <br>
-<br><br>기술스택::
 <div class="image-container">
 <div align=center> 
 
