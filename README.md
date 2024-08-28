@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&text=This%20is%20NY's%20GITHUB!&height=150&fontSize=70&color=02040A&fontColor=FFFFFF)<br><br>
+![header](https://capsule-render.vercel.app/api?type=cylinder&text=%20NY's%20GITHUB!&height=150&fontSize=70&color=02040A&fontColor=FFFFFF)<br><br>
 <center></center>
 <br/>
 <br/>
