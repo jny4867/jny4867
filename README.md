@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&text=%20NY's%20GITHUB!&height=150&fontSize=70&color=02040A&fontColor=FFFFFF&animation=twinkling)<br><br>
+![header](https://capsule-render.vercel.app/api?type=cylinder&text=%20NY's%20GITHUB!&height=150&fontSize=70&color=02040A&fontColor=FFFFFF&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?text=This%is&fontSize=40&desc=Desc&descSize=30)
+
+<br><br>
 <center></center>
 <br/>
 <br/>
