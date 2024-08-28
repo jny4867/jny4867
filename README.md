@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&text=Hi,%20I'm%20Nayoung!&height=150&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)<br><br>
+![header](https://capsule-render.vercel.app/api?type=cylinder&text=Hi,%20I'm%20Nayoung!&height=150&fontSize=70&color=0:#02040A,100:#FFFFFF&stroke=b678c4)<br><br>
 <center></center>
 <br/>
 <br/>
