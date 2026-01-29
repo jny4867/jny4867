@@ -4,18 +4,20 @@
 
 # 🚀 Connecting the Depth of Data with the Breadth of Web
 
-**"데이터의 깊이(Embedded/Security)와 웹의 넓이(Full-stack)를 연결하는 End-to-End 개발자입니다."**
+**Frontend Developer**
+<br>
+**NodeJS, TypeScript, React를 중심으로 개발하며, 심플한 UI와 편안한 사용자 경험을 중시합니다.**
 
 <br>
 
-> 정보통신공학 기반의 탄탄한 로우레벨 이해도와 현대적인 웹 기술 스택을 결합하여, <br>
-> 시스템 전체를 관통하는 효율적이고 안정적인 솔루션을 구축하는 데 집중하고 있습니다.
-
+> 탄탄한 로우레벨 이해도와 현대적인 웹 기술 스택을 결합하여, <br>
+> 시스템 전체를 관통하는 효율적이고 안정적인 솔루션을 구축하고, 사용자 중심의 사고를 바탕으로 직관적이고 아름다운 인터페이스를 만드는 것을 목표로 하고 있습니다.
+> 최신 기술 트렌드를 학습하고 적용하는 것에 관심이 많으며, 코드의 가독성과 유지보수성을 중요하게 생각합니다.
 <br>
 
 ### 🛡️ Core Expertise
-**Data Depth** | 임베디드 제어 및 OSINT 기반 보안 자동화 (99% 성능 최적화 경험)  
-**Web Breadth** | React, Node.js 기반의 사용자 중심 풀스택 서비스 설계 및 구현
+**Data Depth** | 임베디드 제어 및 OSINT 파이썬 기반 자동화
+**Web Breadth** | React, Node.js 기반의 사용자 중심 서비스 설계 및 구현
 
 <br>
 
@@ -40,11 +42,6 @@
 
 <br>
 
-### 📈 GITHUB STATS
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=jny4867&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="jny4867's GitHub stats" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jny4867&layout=compact&theme=radical&hide_border=true" alt="jny4867's Top Langs" />
 
 <br><br>
 
