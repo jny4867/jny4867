@@ -2,9 +2,7 @@
 
 <div align="center">
 
-# 🚀 Connecting the Depth of Data with the Breadth of Web
-
-**Frontend Developer**
+###Frontend Developer
 <br>
 **NodeJS, TypeScript, React를 중심으로 개발하며, 심플한 UI와 편안한 사용자 경험을 중시합니다.**
 
