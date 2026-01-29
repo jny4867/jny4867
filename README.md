@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder0&text=%20NY's%20GITHUB!&height=150&fontSize=70&color=fffff&fontColor=f759d2&animation=twinkling&width="100%")
+<img src="https://capsule-render.vercel.app/api?type=cylinder0&text=%20NY's%20GITHUB!&height=150&fontSize=70&color=fffff&fontColor=f759d2&animation=twinkling" width="100%" />
 
 <div align="center">
 
-## Frontend Developer
+## End to End Developer
 <br>
 **NodeJS, TypeScript, React를 중심으로 개발하며, 심플한 UI와 편안한 사용자 경험을 중시합니다.
 
