@@ -41,6 +41,5 @@ NodeJS, TypeScript, React를 중심으로 개발합니다.
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00000,10:fffff,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" alt="Capsule Render" width="100%"/>
 
 </div>
